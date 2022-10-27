@@ -1,4 +1,3 @@
-# Input validation
 ## Command Injection
 ### Abstract
 Executing commands from an untrusted source or in an untrusted environment can cause an application to execute malicious commands on behalf of an attacker.
